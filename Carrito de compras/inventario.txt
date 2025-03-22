@@ -1,0 +1,3 @@
+1,samsung s8+,300.0,15
+2,Iphone 16 pro max,1500.0,10
+3,Alcatel onetouch 3s,100.33,5
