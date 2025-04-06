@@ -96,3 +96,6 @@ Este proyecto permitió poner en práctica los fundamentos de la programación o
 La experiencia fue enriquecedora, ya que no solo se profundizó en el uso del lenguaje Kotlin, sino también en la organización modular del código, buenas prácticas de desarrollo y la interacción con el usuario desde una interfaz de consola.
 
 Como resultado, CELLEXPRESS no solo cumple con los requisitos funcionales del proyecto, sino que también demuestra un enfoque sólido hacia la construcción de software mantenible, escalable y bien documentado.
+
+Enlace del video:
+https://drive.google.com/file/d/1zYVZ_1xmM2UZSkVz-cpSrZN4xWCaLMfr/view?usp=sharing
